@@ -1,8 +1,8 @@
 # Eval - Let's Learn & Assess
 + The project proposes an idea to develop a platform for IIT JEE aspirants to
-learn,practice and evalute their skills.
+learn, practice and evalute their skills.
 + This website will contain related study materials, video lectures, and mock test series
-for practice to improve the students' performance
+for practice to improve the students' performance.
 
 ## Live website link
 [Eval - Let's Learn & Assess](https://rohanbhardwaj.github.io/Eval/)
@@ -16,7 +16,7 @@ for practice to improve the students' performance
 <p>30/09/20 &nbsp &nbsp &nbsp Physics Content page completion</p>
 <p>11/10/20 &nbsp &nbsp &nbsp Physics Quiz page completion</p>
 <p>20/10/20 &nbsp &nbsp &nbsp Putting timer and linking pages</p>
-<p>01/11/20 &nbsp &nbsp &nbsp making math and chem content page</p>
+<p>01/11/20 &nbsp &nbsp &nbsp Making math and chem content page</p>
 <p>15/11/20 &nbsp &nbsp &nbsp Adding math and chem quiz</p>
-<p>25/11/20 &nbsp &nbsp &nbsp Adding Sing in Sign up functionality</p>
+<p>25/11/20 &nbsp &nbsp &nbsp Adding Sign in and Sign up functionality</p>
 <p>05/12/20 &nbsp &nbsp &nbsp Making all pages responsive</p>
